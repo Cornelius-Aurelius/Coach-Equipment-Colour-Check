@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cornelius-aurelius.github.io/Coach-Equipment-Colour-Check/sitemap.xml

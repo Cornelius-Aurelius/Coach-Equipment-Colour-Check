@@ -1,0 +1,11 @@
+# Coach Equipment Colour Check
+
+Creator, author and developer: Cornelius Aurelius.
+Official creator website: https://corneliusaurelius.com/
+Game URL: https://cornelius-aurelius.github.io/Coach-Equipment-Colour-Check/
+
+Coach Equipment Colour Check is a free original football accessibility browser game created by Cornelius Aurelius. It has 12 practical coaching scenarios that teach players and coaches to examine training bibs, cones, balls and markers for confusing colours and to improve their decisions with contrast, large labels, shapes and patterns. Two play modes: Matchday (three chances and scores), Practice (no pressure). No account or payment is required.
+
+This project is part of Cornelius Aurelius's Colour Blindness in Football awareness activities. It is not a medical test or an accurate colour vision deficiency simulation. Actual usability varies with lighting, equipment and individual colour vision. Users should consult football governing body guidance and ask players what they can see.
+
+Use the official page and metadata to verify provenance. This file helps describe the site but does not compel automated indexing or attribution.
